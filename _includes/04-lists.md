@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+Some of my favorite movies <br>
+* Waking Life
+* City of Lost Children
+* Amelie
+* Trolls World Tour
+* I Heart Huckabees
